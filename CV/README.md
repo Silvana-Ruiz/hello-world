@@ -2,8 +2,9 @@
 ### **Education**
 ---
 **Monterrey Institute of Technology and Higher Education**
+<p dir="rtl">Degree Expected: May 2024
 
-_B.S in Computer Science and Technology_ <p dir="rtl">Degree Expected: May 2024
+_B.S in Computer Science and Technology_ 
 
 ### **Projects**
 ---
